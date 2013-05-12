@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fxpProperties abbreviated="false" authoringTool="Flex Builder" compiles="true" parentProject="8765f14d-ab1f-4f65-a0ca-91525aedbd3c" projectUUID="8765f14d-ab1f-4f65-a0ca-91525aedbd3c" pureCatalystProject="false" sdkVersion="4.5.1" uuid="5520ddca-9900-468a-985c-3d0301db193e" version="15">
+  <projects/>
+  <src>
+    <linked isMain="false" location="xml" path="xml" position="0" uuid="5520ddca-9900-468a-985c-3d0301db193e"/>
+  </src>
+  <swc>
+    <linked location="sdkPlaceHolder" path="sdkPlaceHolder" position="0" uuid="5520ddca-9900-468a-985c-3d0301db193e"/>
+    <linked location="C:/Users/Ian/Facebook/JaneFacebook/libs" path="/libs" position="1" uuid="5520ddca-9900-468a-985c-3d0301db193e"/>
+  </swc>
+  <misc/>
+  <theme/>
+  <mxmlFormattingPrefs groupAttributesByState="true" maxLineWidth="100" mxmlAlignAttributes="true" mxmlAttributeOrder="id,userLabel,includeIn,excludeFrom,visible,x,y,z,left,right,top,bottom,width,height,minWidth,minHeight,maxWidth,maxHeight,label" mxmlKeepAttributeValuesOrganized="true"/>
+</fxpProperties>
